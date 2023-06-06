@@ -1,0 +1,15 @@
+Ejercicio base:
+
+En su labor como programador de software ha sido elegido para desarrollar una aplicación para la
+
+empresa Action Construcciones que indique porcentajes de descuento de 10% por trabajos realizados
+
+mayores a $500.000, 20 % por superiores a $500.001 hasta 700.000 y 30% de 700.001 en adelante.
+
+En ambos casos se aplica el 19% de IVA.
+
+Determine el monto del descuento, el impuesto y el importe a pagar.
+
+Aclaraciones:
+
+• Se aplicación deberá dar el valor final especificando cada porcentaje de descuento e IVA.
